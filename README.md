@@ -3,7 +3,7 @@ Estudante de Engenharia da Computação na [UNIPAMPA](http://unipampa.edu.br/).
 Atualmente estou focado na programação em Java!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/java-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
 
