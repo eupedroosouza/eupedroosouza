@@ -2,7 +2,7 @@
 
 ##
 
-Estudante de Engenharia da Computação na [UNIPAMPA](http://unipampa.edu.br/). <br>
+Estudante de Engenharia de Computação na [UNIPAMPA](http://unipampa.edu.br/). <br>
 Atualmente estudando e programando Java!
   
 ##
